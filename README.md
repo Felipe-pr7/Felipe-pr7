@@ -18,9 +18,7 @@
  
 <div> 
  <a href="https://instagram.com/_pfelipskt" target="_blank"><img src="[https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/_pfelipskt/)" target="_blank"></a>
-  <a href = "mailto:prrodrigues06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/Paulo Felipe Rodrigues" target="_blank"><img src="[https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/paulo-felipe-rodrigues-459137249/)" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Felipe-pr7/Felipe-pr7/blob/output/github-contribution-grid-snake.svg)
+
+ ![Snake animation](https://github.com/Felipe-pr7/Felipe-pr7/blob/output/github-contribution-grid-snake.svg)
 
 </div>
